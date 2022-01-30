@@ -1,3 +1,8 @@
+# Project specific
+allure-results
+debug
+.DS_Store
+
 # Logs
 logs
 *.log
